@@ -1,0 +1,5 @@
+Des liens : 
+
+https://www.infoworld.com/article/3318222/how-to-add-sparklines-to-r-tables.html
+https://community.rstudio.com/t/leaflet-clustering-groups-and-subgroups/152881
+https://www.rdocumentation.org/packages/rAmCharts/versions/2.1.15/topics/amChartsOutput
